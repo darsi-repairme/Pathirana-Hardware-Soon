@@ -62,7 +62,7 @@ When the URL contains `?debug`, `?debug&t=3.2` freezes the opening sequence at 3
 
 These are the only business details on the page:
 
-- Pathirana Hardware (Pvt) Ltd
+- Pathirana Hardware
 - Pallama Road, Bangadeniya, Sri Lanka
 - +94 71 225 9699 (`tel:+94712259699`)
 - WhatsApp `https://wa.me/94712259699`
