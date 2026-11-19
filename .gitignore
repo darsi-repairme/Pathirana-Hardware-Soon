@@ -1,0 +1,6 @@
+node_modules
+dist
+.vercel
+_archive
+*.log
+.playwright-mcp
