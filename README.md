@@ -1,4 +1,4 @@
-# Pathirana Hardware — 3D Coming Soon website
+# Pathirana Hardware — Coming Soon website
 
 This is a standalone, static Coming Soon page for **pathiranahardware.lk**. It is built with **Vite + Three.js (WebGL) + vanilla JavaScript**. There is no backend, API, database or authentication.
 
